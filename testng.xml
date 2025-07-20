@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Simplilearn">
+  <test thread-count="5" name="SmokeTest">
+    <classes>
+      <class name="testing.AnnotationsExample"/>
+      <class name="testing.AnnotationsExample2"/>
+      <methods>
+      <include name="test2"/>
+      </methods>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
