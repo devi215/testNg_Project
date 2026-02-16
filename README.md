@@ -8,6 +8,7 @@ e-commerce application used for placing online orders.
 Selenium Webdriver
 TestNg
 POM
+
 #Technical Details:
 
 • Designed and executed automated test cases to validate end-to-end e-commerce workflows, including login, product
